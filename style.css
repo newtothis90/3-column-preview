@@ -80,7 +80,7 @@ button:active{
 
     .container{
         grid-template-rows: repeat(3,auto);
-        transform: translate(-50%,-29%);
+        transform: translate(-50%,-25%);
         width:300px;
     }
 
