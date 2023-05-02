@@ -16,7 +16,7 @@ body{
     display: grid;
     grid-template-columns: repeat(3, 300px);
     position: absolute;
-    top: 50%;
+    top: 53%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -44,7 +44,7 @@ button{
     border-radius: 25px;
     border: none;
     background-color: hsl(0, 0%, 95%);
-    margin-top: 75px;
+    margin-top: 100px;
     mix-blend-mode: screen;
     font-family: "Lexend Deca";
 }
